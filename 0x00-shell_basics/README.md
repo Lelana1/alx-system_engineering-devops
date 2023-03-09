@@ -1,1 +1,1 @@
-absolute path
+shell exercises
